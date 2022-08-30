@@ -8,3 +8,8 @@
 	url = https://github.com/junjunlab/jjanno
 	shallow = true
 	registered = true
+[submodule "transPlotR"]
+	path = transPlotR
+	url = https://github.com/junjunlab/transplotr
+	shallow = true
+	registered = true
