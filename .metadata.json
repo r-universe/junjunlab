@@ -1,9 +1,5 @@
 [
   {
-    "package": "jjAnno",
-    "oncran": true
-  },
-  {
     "package": "transPlotR",
     "oncran": true
   }
