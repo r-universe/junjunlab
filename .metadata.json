@@ -1,5 +1,9 @@
 [
   {
+    "package": "GseaVis",
+    "oncran": true
+  },
+  {
     "package": "transPlotR",
     "oncran": true
   }
