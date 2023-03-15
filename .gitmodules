@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GseaVis"]
-	path = GseaVis
-	url = https://github.com/junjunlab/gseavis
-	shallow = true
-	registered = true
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/junjunlab/transplotr
+	shallow = true
+	registered = true
+[submodule "GseaVis"]
+	path = GseaVis
+	url = https://github.com/junjunlab/gseavis
 	shallow = true
 	registered = true
