@@ -1,10 +1,10 @@
 [
   {
-    "package": "transPlotR",
+    "package": "GseaVis",
     "oncran": true
   },
   {
-    "package": "GseaVis",
+    "package": "transPlotR",
     "oncran": true
   }
 ]
