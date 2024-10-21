@@ -5,6 +5,10 @@
 [submodule "GseaVis"]
 	path = GseaVis
 	url = https://github.com/junjunlab/gseavis
+[submodule "ggsankey"]
+	path = ggsankey
+	url = https://github.com/davidsjoberg/ggsankey
+	registered = false
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/junjunlab/transplotr
