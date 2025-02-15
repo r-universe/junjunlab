@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ClusterGVis"]
+	path = ClusterGVis
+	url = https://github.com/junjunlab/clustergvis
 [submodule "GseaVis"]
 	path = GseaVis
 	url = https://github.com/junjunlab/gseavis
